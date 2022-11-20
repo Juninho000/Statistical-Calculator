@@ -8,6 +8,6 @@ Um pequeno projeto desenvolvido como trabalho avaliativo para a faculdade.
 
 #### EN
 
-Matrix Calculator, performs addition, subtraction, multiplication and identity matrix.
+Statistical Calculator that calculates the mean, variance, standard deviation and coefficient of variation.
 
-Another small project developed as an evaluative work for the college.
+A small project developed as an evaluative work for the college.
